@@ -1,0 +1,14 @@
+/home/victoria/csc308/v.falowocsc308/week-1/classwork-2/target/debug/deps/serde-bca7023f0b25494c.d: /home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/victoria/csc308/v.falowocsc308/week-1/classwork-2/target/debug/build/serde-ea53255435858acc/out/private.rs
+
+/home/victoria/csc308/v.falowocsc308/week-1/classwork-2/target/debug/deps/libserde-bca7023f0b25494c.rlib: /home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/victoria/csc308/v.falowocsc308/week-1/classwork-2/target/debug/build/serde-ea53255435858acc/out/private.rs
+
+/home/victoria/csc308/v.falowocsc308/week-1/classwork-2/target/debug/deps/libserde-bca7023f0b25494c.rmeta: /home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/victoria/csc308/v.falowocsc308/week-1/classwork-2/target/debug/build/serde-ea53255435858acc/out/private.rs
+
+/home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/victoria/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/victoria/csc308/v.falowocsc308/week-1/classwork-2/target/debug/build/serde-ea53255435858acc/out/private.rs:
+
+# env-dep:OUT_DIR=/home/victoria/csc308/v.falowocsc308/week-1/classwork-2/target/debug/build/serde-ea53255435858acc/out
